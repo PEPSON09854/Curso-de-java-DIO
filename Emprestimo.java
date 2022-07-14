@@ -1,6 +1,7 @@
 package praticando.metodos;
 
 public class Emprestimo {
+    
     public static int getDuasParcelas() {
 
         return 2;
